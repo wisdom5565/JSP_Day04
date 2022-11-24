@@ -1,0 +1,25 @@
+과제
+	info_ok.jsp -> servlet
+	write_ok.jsp -> servlet 
+	
+	view.jsp
+		조회수 증가 : view.jsp 입장시 hit에 +1
+		좋아요 : 버튼만들고 클릭시 like+1 (Ajax)
+		
+문제
+	1. edit.jsp에 제목하고 내용 값을 출력
+	2. edit_ok.jsp업데이트 -> view.jsp로 돌아감
+	
+2022.11.23 과제
+	1. edit_ok, delete_ok, re_delete_ok, re_write_ok	-> 서블릿
+	
+	2. list.jsp에 글의 총 갯수를 출력
+	
+	3. 3일 이내의 글 제목 옆의 new 아이콘 표시하기
+	 
+2022.11.24 과제
+	1. 리스트 번호를 차례대로 출력
+	2. 조회수 한 유저당 한번만 계산 (조회수 테이블 추가)
+	3. 깃허브에 업로드
+	
+	
